@@ -1,0 +1,23 @@
+# Copyright (c) 2014-2019 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/ (# AdDisplay)
+
+35.198.197.119:8080
+
+# Reference: https://twitter.com/sh1shk0va/status/1204022927596937217
+
+fbgg.xyz
+bmm.fbgg.xyz
+
+# Reference: https://securelist.com/mobile-subscriptions/91211/
+
+okyesmobi.com
+
+# Reference: https://twitter.com/sh1shk0va/status/1205511108582354944
+
+data.djmixer2018.com
+
+# Reference: https://www.virustotal.com/gui/file/9442af04b50af35a768984fc66c9302d4f840cc3183e0fd55c1e2dda4fab28ce/detection
+
+216.144.236.34:80
